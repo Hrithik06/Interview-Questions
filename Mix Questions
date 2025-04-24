@@ -1,0 +1,6 @@
+1. How do you update data dynamically without reloading?
+  fetch api, innerHTML
+2. How to make website responsive?
+  CSS: medi-query
+3. How to optimise loading of webpage?
+  ReactJS: Lazyload, HTML: defer loading JS script
